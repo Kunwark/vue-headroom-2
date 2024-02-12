@@ -1,6 +1,6 @@
 {
-  "name": "vue-headroom",
-  "version": "0.10.1",
+  "name": "vue-headroom-2",
+  "version": "0.0.2",
   "description": "Headroom component for Vuejs",
   "main": "./dist/vue-headroom-umd.js",
   "browser": "./dist/vue-headroom-umd.js",
@@ -17,17 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dalphyx/vue-headroom.git"
+    "url": "git+https://github.com/kunwark/vue-headroom-2.git"
   },
   "author": "dalphyx <wjcbmk@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "raf": "^3.4.1"
-  },
   "bugs": {
-    "url": "https://github.com/dalphyx/vue-headroom/issues"
+    "url": "https://github.com/Kunwark/vue-headroom-2/issues"
   },
-  "homepage": "https://github.com/dalphyx/vue-headroom#readme",
+  "homepage": "https://github.com/kunwark/vue-headroom-2#readme",
   "devDependencies": {
     "@babel/preset-env": "^7.4.3",
     "bili": "^4.7.2",
